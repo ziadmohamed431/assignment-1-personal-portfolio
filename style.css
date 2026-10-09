@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: rgb(223, 220, 220);
+}
+ 
+.text-center
+{
+    text-align: center;
+}
+ 
+.m-auto
+{
+   margin: auto;
+}
+
+.wd-70
+{
+    width: 70%;
+}
+
+.wd-90
+{
+    width: 90%;
+}
+
+
+.padd-img
+{
+    padding: 2vh;
+
+}
+
+.padd
+{
+    padding-top: 3vh ;
+    padding-bottom: 3vh;
+}
+.padd-lef
+{
+    padding-left: 3vh;
+}
+.border-rad
+{
+    border-radius: 7vh;
+}
+
+.float50
+{
+    float: left;
+    width: 50%;
+}
+
+.float
+{
+    float: left;
+    width: 25%;
+}
+
+.clear-flo
+{
+    clear: both;
+}
+
+button
+{
+    border-radius: 5vh;
+    padding: 1vh;
+    background-color: rgb(20,70,119);
+    color: white;
+
+}
+
+
+.container
+{
+    color: white;
+    background-color: rgb(17,59,119);
+}
+
+
+
+.contain
+{
+    background-color: white;
+}
+.img-m
+{
+    width: 20%;
+}
+
+.img-pic
+{
+    width: 10%;
+    height: 7%;
+}
+
+.border-pic
+{
+    border-radius:100%;
+}
+.john{
+    background-color: brown;
+}
+
+.text-col
+{
+    color: rgb(17,59,119);
+}
+
+.wd-50
+{
+    width: 50%;
+}
+
+
+
+.back
+{
+background-color: rgb(239, 248, 255);
+
+}
+
+.text-coll
+{
+    color: rgb(0, 183, 255);
+}
+
+
+.bordd{
+    border: 1vh white solid;
+}
+
